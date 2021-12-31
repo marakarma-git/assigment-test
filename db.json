@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "username": "marakarma",
+      "firstName": "mara",
+      "lastName": "karma",
+      "email": "mara@gmail.com",
+      "birthDate": "17 Febr 1995",
+      "basicSalary": "10000",
+      "status": "active",
+      "group": "1",
+      "description": "adsfsdf"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
